@@ -20,9 +20,6 @@ This tool helps generate blog topics and content ideas based on the selected mod
 2. Click generate.  
 3. Receive a list of blog topics and ideas instantly.  
 
-## Screenshots
-![Screenshot of Blog Topic Generator](images.png)
-
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python / Node.js (depending on your implementation)  
