@@ -15,6 +15,10 @@ This tool helps generate blog topics and content ideas based on the selected mod
 - Speeds up content creation and planning  
 - Useful for bloggers, marketers, and content writers  
 
+## Screenshots
+
+![Screenshot of Blog Topic Generator](image.png)
+
 ## How to Use
 1. Select a model or category.  
 2. Click generate.  
